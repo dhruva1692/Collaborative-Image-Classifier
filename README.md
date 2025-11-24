@@ -40,15 +40,6 @@ I contributed mainly to the dataset preparation, transform pipeline, and trainin
 - Matplotlib  
 - simple_image_download (for collecting images)
 
----
-
-##  Repository Contents
-
-| File | Description |
-|------|-------------|
-| `VIT_model.ipynb` | Main collaborative notebook with full training pipeline |
-| `README.md` | Documentation for this project |
-| `requirements.txt` (optional) | List of all major dependencies |
 
 ---
 
